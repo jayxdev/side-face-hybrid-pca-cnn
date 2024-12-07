@@ -113,12 +113,6 @@ The dataset includes **side face images** from **21 individuals**, with **50 aug
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## Acknowledgments
 
 - **Mentor:** Girish Kumar for guidance and invaluable feedback throughout this research.  
