@@ -7,6 +7,8 @@ This project explores a novel approach to **side face recognition** using a hybr
 ## Current Status
 The implementation and results discussed in this project are part of an ongoing research effort. The code is not publicly available at this time, as the research paper based on this work is under review for publication.
 
+---
+
 ## Motivation
 
 Side face recognition is a challenging task in computer vision due to variations in facial profiles and occlusions. This research investigates the effectiveness of PCA for reducing the dimensionality of high-resolution side face images, followed by a CNN model for accurate classification. 
@@ -121,6 +123,10 @@ The dataset includes **side face images** from **21 individuals**, with **50 aug
 - **Mentor:** Girish Kumar for guidance and invaluable feedback throughout this research.  
 - **Dataset Augmentation:** Special thanks to libraries like OpenCV for efficient image augmentation.  
 - **Peers:** Gratitude to all who contributed ideas and support during this research.
+
+---
+## Citation
+If you find this work relevant, please cite it once the research paper is published. Citation details will be added here post-publication.
 
 ---
 
